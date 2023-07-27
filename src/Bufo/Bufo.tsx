@@ -32,7 +32,7 @@ function Bufos() {
             <div className="card-body">
               <h2 className="card-title">Mateo Lopez-Castillo</h2>
               <p>
-                Efficiency is my middle name; I get things done in record time.
+                Favorite dinosaur: Archaeopteryx
               </p>
               <div className="card-actions justify-end">
                 <div className="btn-group">
@@ -62,7 +62,7 @@ function Bufos() {
             </figure>
             <div className="card-body">
               <h2 className="card-title">Ian MacDougald</h2>
-              <p>I believe in work hard, caffeinate harder.</p>
+              <p>Favorite dinosaur: Plesiosaurus</p>
               <div className="card-actions justify-end">
                 <div className="btn-group">
                   <button
@@ -92,7 +92,7 @@ function Bufos() {
             </figure>
             <div className="card-body">
               <h2 className="card-title">Schuyler Weiner</h2>
-              <p>They say 'follow your dreams,' so I took the night shift.</p>
+              <p>Favorite dinosaur: Therizinosaurus</p>
               <div className="card-actions justify-end">
                 <div className="btn-group">
                   <button
@@ -122,7 +122,7 @@ function Bufos() {
             <div className="card-body">
               <h2 className="card-title">Angelo Dell Acqua</h2>
               <p>
-                Navigating the corporate maze with a smile and a cup of coffee.
+                Favorite dinosaur: Pterodactyl
               </p>
               <div className="card-actions justify-end">
                 <div className="btn-group">
